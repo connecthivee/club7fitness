@@ -8,7 +8,6 @@ import About from './sections/About'
 import Programs from './sections/Programs'
 import Classes from './sections/Classes'
 import Gallery from './sections/Gallery'
-import Instagram from './sections/Instagram'
 import Testimonials from './sections/Testimonials'
 import Footer from './sections/Footer'
 
@@ -23,7 +22,6 @@ function App() {
         <Programs />
         <Classes />
         <Gallery />
-        <Instagram />
         <Testimonials />
         <Footer />
       </div>
